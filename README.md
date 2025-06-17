@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/opgginc-opgg-mcp-badge.png)](https://mseep.ai/app/opgginc-opgg-mcp)
+
 # OP.GG MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@opgginc/opgg-mcp)](https://smithery.ai/server/@opgginc/opgg-mcp)
